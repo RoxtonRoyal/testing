@@ -21,9 +21,7 @@ function App() {
     <Link style={{ margin: 8 }} to="/home">Home</Link>
     <Link style={{ margin: 8 }} to="/about">About Us</Link>
     <Link style={{ margin: '8px 16px 8px 8px' }} to="/ourservices">Our Services</Link>
-    <Link style={{ margin: '8px 16px 8px 8px' }} to="/ourservices">
-    <img src="image_url_here" alt="Our Services" />
-</Link>
+    
 
 
   </div>
